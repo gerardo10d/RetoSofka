@@ -1,3 +1,5 @@
+# Lista = [Pregunta, opción 1, opción 2, opción 3, opción 4, posición de la correcta]
+
 pregunta11 = ['¿Cuál es la capital de Perú?', 'Lima', 'Montevideo', 'Asunción', 'Quito', 1]
 pregunta12 = ['¿Cuál es la capital de Ecuador?', 'Lima', 'Montevideo', 'Asunción', 'Quito', 4]
 pregunta13 = ['¿Cuál es la capital de Uruguay?', 'Lima', 'Montevideo', 'Asunción', 'Quito', 2]
@@ -28,7 +30,7 @@ pregunta53 = ['¿Cuál es la capital de Bangladés?', 'Kabul', 'Riad', 'Daca', '
 pregunta54 = ['¿Cuál es la capital de Chipre?', 'Kabul', 'Riad', 'Daca', 'Nicosia', 4]
 pregunta55 = ['¿Cuál es la capital de Indonesia?', 'Kabul', 'Riad', 'Daca', 'Yakarta', 4]
 
-
+# Lista = [categoría, pregunta 1, pregunta 2, pregunta 3, pregunta 4, pregunta 5, premio]
 categoria1 = [1, pregunta11, pregunta12, pregunta13, pregunta14, pregunta15, 1000]
 categoria2 = [2, pregunta21, pregunta22, pregunta23, pregunta24, pregunta25, 2000]
 categoria3 = [3, pregunta31, pregunta32, pregunta33, pregunta34, pregunta35, 3000]
